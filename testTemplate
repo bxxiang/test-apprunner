@@ -1,8 +1,0 @@
-Resources:
-  myEC2: 
-    Type: AWS::EC2::Instance
-    Properties:
-      ImageId: ami-0f07fff9d419c5069
-      Tags:
-        - Key: "keyname1"
-          Value: "value5"
